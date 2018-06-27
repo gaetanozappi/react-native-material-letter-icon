@@ -9,6 +9,12 @@
 -   [Usage](#usage)
 -   [License](#license)
 
+## 📖 Getting started
+
+`$ npm install react-native-material-letter-icon --save`
+
+`$ react-native link react-native-material-letter-icon`
+
 #### Android
 
 1. Open up `android/app/src/main/java/[...]/MainActivity.java`
