@@ -79,7 +79,7 @@ const styles = StyleSheet.create({
 
 - Android Material Letter Icon: [IvBaranov/MaterialLetterIcon](https://github.com/IvBaranov/MaterialLetterIcon)
 
-## 💫 
+## 💫 Contribute
 
 - Pranav Raj Singh Chauhan: [prscx](https://github.com/prscx)
 
