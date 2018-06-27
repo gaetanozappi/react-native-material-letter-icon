@@ -1,23 +1,10 @@
+# React Native: react-native-material-letter-icon
 
-# react-native-material-letter-icon
+[![github home](https://img.shields.io/badge/gaetanozappi-react--native--material--letter--icon-blue.svg?style=flat-square)](https://github.com/gaetanozappi/react-native-material-letter-icon)
+[![github issues](https://img.shields.io/github/issues/gaetanozappi/react-native-material-letter-icon.svg?style=flat-square)](https://github.com/gaetanozappi/react-native-material-letter-icon/issues)
 
-## Getting started
-
-`$ npm install react-native-material-letter-icon --save`
-
-### Mostly automatic installation
-
-`$ react-native link react-native-material-letter-icon`
-
-### Manual installation
-
-
-#### iOS
-
-1. In XCode, in the project navigator, right click `Libraries` ➜ `Add Files to [your project's name]`
-2. Go to `node_modules` ➜ `react-native-material-letter-icon` and add `RNMaterialLetterIcon.xcodeproj`
-3. In XCode, in the project navigator, select your project. Add `libRNMaterialLetterIcon.a` to your project's `Build Phases` ➜ `Link Binary With Libraries`
-4. Run your project (`Cmd+R`)<
+-   [Usage](#usage)
+-   [License](#license)
 
 #### Android
 
@@ -34,20 +21,68 @@
       compile project(':react-native-material-letter-icon')
   	```
 
-#### Windows
-[Read it! :D](https://github.com/ReactWindows/react-native)
-
-1. In Visual Studio add the `RNMaterialLetterIcon.sln` in `node_modules/react-native-material-letter-icon/windows/RNMaterialLetterIcon.sln` folder to their solution, reference from their app.
-2. Open up your `MainPage.cs` app
-  - Add `using Material.Letter.Icon.RNMaterialLetterIcon;` to the usings at the top of the file
-  - Add `new RNMaterialLetterIconPackage()` to the `List<IReactPackage>` returned by the `Packages` method
-
-
 ## Usage
 ```javascript
+import React, { Component } from 'react';
+import {
+  Platform,
+  StyleSheet,
+  Text,
+  View
+} from 'react-native';
 import RNMaterialLetterIcon from 'react-native-material-letter-icon';
 
-// TODO: What to do with the module?
-RNMaterialLetterIcon;
+type Props = {};
+export default class App extends Component<Props> {
+  render() {
+    return (
+      <View style={styles.container}>
+      <RNMaterialLetterIcon
+      size={80}
+      border={true}
+      borderColor={"#dd2c00"}
+      borderSize={2}
+      />
+      <RNMaterialLetterIcon
+      size={80}
+      shapeColor={"#ff5722"}
+      shapeType={"round"}
+      />
+      <RNMaterialLetterIcon
+      size={80}
+      shapeColor={"#4caf50"}
+      shapeType={"triangle"}
+      />
+      <RNMaterialLetterIcon
+      size={80}
+      shapeColor={"#303f9f"}
+      shapeType={"rect"}
+      />
+      </View>
+    );
+  }
+}
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: '#F5FCFF',
+  }
+});
+
 ```
-  
+
+
+## ✨ Credits
+
+- Android Material Letter Icon: [IvBaranov/MaterialLetterIcon](https://github.com/IvBaranov/MaterialLetterIcon)
+
+## 💫 
+
+- Pranav Raj Singh Chauhan: [prscx](https://github.com/prscx)
+
+
+## License
+The MIT License
