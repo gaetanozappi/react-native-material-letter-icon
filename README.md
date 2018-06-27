@@ -3,11 +3,8 @@
 [![github home](https://img.shields.io/badge/gaetanozappi-react--native--material--letter--icon-blue.svg?style=flat-square)](https://github.com/gaetanozappi/react-native-material-letter-icon)
 [![github issues](https://img.shields.io/github/issues/gaetanozappi/react-native-material-letter-icon.svg?style=flat-square)](https://github.com/gaetanozappi/react-native-material-letter-icon/issues)
 
-<<<<<<< HEAD
 ![PNG](screenshot/react-native-material-letter-icon.jpeg)
 
-=======
->>>>>>> f4a43cca17e087a45219d59ad1f92328328b49f1
 -   [Usage](#usage)
 -   [License](#license)
 
