@@ -1,7 +1,8 @@
 # React Native: react-native-material-letter-icon
 
-[![github home](https://img.shields.io/badge/gaetanozappi-react--native--material--letter--icon-blue.svg?style=flat-square)](https://github.com/gaetanozappi/react-native-material-letter-icon)
-[![github issues](https://img.shields.io/github/issues/gaetanozappi/react-native-material-letter-icon.svg?style=flat-square)](https://github.com/gaetanozappi/react-native-material-letter-icon/issues)
+[![github home](http://img.shields.io/npm/v/react-native-material-letter-icon.svg?style=flat)](https://www.npmjs.com/package/react-native-material-letter-icon)
+[![github home](https://img.shields.io/badge/gaetanozappi-react--native--material--letter--icon-blue.svg?style=flat)](https://github.com/gaetanozappi/react-native-material-letter-icon)
+[![github issues](https://img.shields.io/github/issues/gaetanozappi/react-native-material-letter-icon.svg?style=flat)](https://github.com/gaetanozappi/react-native-material-letter-icon/issues)
 
 ![PNG](screenshot/react-native-material-letter-icon.jpeg)
 
@@ -87,4 +88,4 @@ const styles = StyleSheet.create({
 
 
 ## License
-The MIT License
+This library is provided under the Apache License.
