@@ -4,7 +4,15 @@
 [![github home](https://img.shields.io/badge/gaetanozappi-react--native--material--letter--icon-blue.svg?style=flat)](https://github.com/gaetanozappi/react-native-material-letter-icon)
 [![github issues](https://img.shields.io/github/issues/gaetanozappi/react-native-material-letter-icon.svg?style=flat)](https://github.com/gaetanozappi/react-native-material-letter-icon/issues)
 
-![PNG](screenshot/react-native-material-letter-icon.jpeg)
+![Library](screenshot/library.png)
+![Lollipop](screenshot/lollipop.png)
+
+Variations
+----------
+![Library_countries](screenshot/library_countries.png)
+![Library_countries_rect](screenshot/library_countries_rect.png)
+![Library_round_rect](screenshot/library_round_rect.png)
+![Library_triangle](screenshot/library_triangle.png)
 
 -   [Usage](#usage)
 -   [License](#license)
