@@ -91,6 +91,21 @@ const styles = StyleSheet.create({
 
 ```
 
+## 💡 Props
+
+| Prop              | Type       | Default | Note                                                                                                       |
+| ----------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------- |
+| `shapeColor`      | `string`   | `#1e95cc`  | Shape color resource
+| `shapeType`       | `string`   | `circle`   | Shape type (circle,rectangle,rect,round)
+| `letter`          | `string`   |`Leonardo Wilhelm DiCaprio`      | Letter, string or initials to get letters from
+| `letterColor`     | `string`   | `#ffffff`  | Letter color
+| `letterSize`      | `number`   | `26`       | Letter size
+| `lettersNumber`   | `number`   |            | Letter number
+| `initials`        | `bool`     | `true`     | Initials enabled
+| `initialsNumber`  | `number`   | `3`        | Initials number
+| `border`          | `bool`     |            | Border enabled
+| `borderColor`     | `string`   |            | Border color
+| `borderSize`      | `string`   |            | Border size
 
 ## ✨ Credits
 
