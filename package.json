@@ -1,7 +1,7 @@
 {
   "name": "react-native-material-letter-icon",
-  "version": "0.0.2",
-  "description": "",
+  "version": "0.0.3",
+  "description": "React Native library to generate Google Inbox style material list icons.",
   "repository": {
     "type": "git",
     "url": "https://github.com/gaetanozappi/react-native-material-letter-icon.git"
@@ -17,6 +17,14 @@
   "keywords": [
     "react-native"
   ],
+  "keywords": [
+    "react-native",
+    "avatar",
+    "material",
+    "initials",
+    "letter",
+    "icon"
+  ]
   "author": "",
   "license": "",
   "peerDependencies": {}
