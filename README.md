@@ -1,8 +1,14 @@
 # React Native: react-native-material-letter-icon
 
 [![github home](http://img.shields.io/npm/v/react-native-material-letter-icon.svg?style=flat)](https://www.npmjs.com/package/react-native-material-letter-icon)
+![platforms](https://img.shields.io/badge/platforms-Android-brightgreen.svg?style=flat&colorB=191A17)
 [![github home](https://img.shields.io/badge/gaetanozappi-react--native--material--letter--icon-blue.svg?style=flat)](https://github.com/gaetanozappi/react-native-material-letter-icon)
+[![npm](https://img.shields.io/npm/dm/react-native-material-letter-icon.svg?style=flat&colorB=007ec6)](https://www.npmjs.com/package/react-native-material-letter-icon)
+
 [![github issues](https://img.shields.io/github/issues/gaetanozappi/react-native-material-letter-icon.svg?style=flat)](https://github.com/gaetanozappi/react-native-material-letter-icon/issues)
+[![github closed issues](https://img.shields.io/github/issues-closed/gaetanozappi/react-native-material-letter-icon.svg?style=flat&colorB=44cc11)](https://github.com/gaetanozappi/react-native-material-letter-icon/issues?q=is%3Aissue+is%3Aclosed)
+[![Issue Stats](https://img.shields.io/issuestats/i/github/gaetanozappi/react-native-material-letter-icon.svg?style=flat&colorB=44cc11)](http://github.com/gaetanozappi/react-native-material-letter-icon/issues)
+[![github license](https://img.shields.io/github/license/gaetanozappi/react-native-material-letter-icon.svg)]()
 
 ![Library](screenshot/library.png)
 ![Lollipop](screenshot/lollipop.png)
