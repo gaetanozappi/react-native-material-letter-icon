@@ -20,8 +20,8 @@ Variations
 ![Library_round_rect](screenshot/library_round_rect.png)
 ![Library_triangle](screenshot/library_triangle.png)
 
--   [Usage](#usage)
--   [License](#license)
+-   [Usage](#-usage)
+-   [License](#-license)
 
 ## 📖 Getting started
 
@@ -44,7 +44,7 @@ Variations
       compile project(':react-native-material-letter-icon')
   	```
 
-## Usage
+## 💻 Usage
 ```javascript
 import React, { Component } from 'react';
 import {
@@ -114,13 +114,10 @@ const styles = StyleSheet.create({
 | `borderSize`      | `string`   |            | Border size
 
 ## ✨ Credits
-
 - Android Material Letter Icon: [IvBaranov/MaterialLetterIcon](https://github.com/IvBaranov/MaterialLetterIcon)
 
 ## 💫 Contribute
-
 - Pranav Raj Singh Chauhan: [prscx](https://github.com/prscx)
 
-
-## License
+## 📜 License
 This library is provided under the Apache License.
