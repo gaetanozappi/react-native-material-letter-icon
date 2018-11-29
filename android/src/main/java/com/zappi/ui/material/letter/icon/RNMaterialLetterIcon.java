@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.zappi.ui.material.letter.icon;
 
 import android.graphics.Color;
 import android.graphics.Typeface;
