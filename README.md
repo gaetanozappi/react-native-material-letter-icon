@@ -1,5 +1,6 @@
 # React Native: react-native-material-letter-icon
 
+[![GitHub package version](https://img.shields.io/github/package-json/v/gaetanozappi/react-native-material-letter-icon.svg?style=flat&colorB=2b7cff)](https://github.com/gaetanozappi/react-native-material-letter-icon)
 [![github home](http://img.shields.io/npm/v/react-native-material-letter-icon.svg?style=flat)](https://www.npmjs.com/package/react-native-material-letter-icon)
 ![platforms](https://img.shields.io/badge/platforms-Android-brightgreen.svg?style=flat&colorB=191A17)
 [![github home](https://img.shields.io/badge/gaetanozappi-react--native--material--letter--icon-blue.svg?style=flat)](https://github.com/gaetanozappi/react-native-material-letter-icon)
