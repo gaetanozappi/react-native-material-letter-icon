@@ -8,7 +8,7 @@ about: Create a report to help us improve
   - [ ] Review the documentation: https://github.com/gaetanozappi/react-native-material-letter-icon
   - [ ] Search for existing issues (including closed issues): https://github.com/gaetanozappi/react-native-material-letter-icon/issues
 
-<!-- Describe your environment (OS, target platform, react-native-vector-icons version etc.) -->
+<!-- Describe your environment (OS, target platform, react-native-material-letter-icon version etc.) -->
 ## Environment
 
 <!-- Describe what happened, what worked and didn't work as expected -->
